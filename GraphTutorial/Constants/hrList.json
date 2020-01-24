@@ -1,0 +1,250 @@
+{
+  "Status": "Success",
+  "data": [
+    {
+      "data": [
+        {
+          "empId": "AN01",
+          "empMobile": 123,
+          "empDesignation": "Verification Engineer",
+          "empName": "Karamcheti Viswarka Chainulu",
+          "empLocation": "Hyderabad",
+          "empEmail": "k@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Santhi A"
+        },
+        {
+          "empId": "AN05",
+          "empMobile": 123,
+          "empDesignation": "Delivery Head",
+          "empName": "Haribhai Patel",
+          "empLocation": "Hyderabad",
+          "empEmail": "h@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Santhi A"
+        },
+        {
+          "empId": "AN06",
+          "empMobile": 123,
+          "empDesignation": "Sr. Verification Engineer",
+          "empName": "Kalpit Kishore Vaidya",
+          "empLocation": "hyderabad",
+          "empEmail": "k@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Hari Patel"
+        },
+        {
+          "empId": "AN100",
+          "empMobile": 123,
+          "empDesignation": "Sr. Verification Engineer",
+          "empName": "Tammana Parmar",
+          "empLocation": "hyderabad",
+          "empEmail": "t@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Smitesh Patel"
+        },
+        {
+          "empId": "AN101",
+          "empMobile": 123,
+          "empDesignation": "Technical Lead Engineer",
+          "empName": "Samrat Patel",
+          "empLocation": "hyderabad",
+          "empEmail": "s@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Hari Patel"
+        },
+        {
+          "empId": "AN102",
+          "empMobile": 123,
+          "empDesignation": "Sr. Verification Engineer",
+          "empName": "Barkha Singh",
+          "empLocation": "hyderabad",
+          "empEmail": "b@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Smitesh Patel"
+        },
+        {
+          "empId": "AN103",
+          "empMobile": 123,
+          "empDesignation": "Verification Engineer",
+          "empName": "Lokesh Kumar Mistry",
+          "empLocation": "hyderabad",
+          "empEmail": "l@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Miheer Bariya"
+        },
+        {
+          "empId": "AN104",
+          "empMobile": 123,
+          "empDesignation": "Sr. Verification Engineer",
+          "empName": "Adithya",
+          "empLocation": "hyderabad",
+          "empEmail": "dithyaadm.d@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Hari Patel"
+        },
+        {
+          "empId": "AN112",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Durga Prasad",
+          "empLocation": "hyderabad",
+          "empEmail": "d@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN114",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Parth Chandegara",
+          "empLocation": "hyderabad",
+          "empEmail": "p@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Karishma Sav"
+        },
+        {
+          "empId": "AN115",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Vipul Bhadarka",
+          "empLocation": "hyderabad",
+          "empEmail": "v@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Karishma Sav"
+        },
+        {
+          "empId": "AN116",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Priya Yadav",
+          "empLocation": "hyderabad",
+          "empEmail": "p@alpha-numero.com",
+          "empDepartment": "VLSI",
+          "empReportingmanager": "Karishma Sav"
+        }
+      ],
+      "headerTitle": "VLSI"
+    },
+    {
+      "headerTitle": "ADMIN",
+      "data": [
+        {
+          "empId": "AN07",
+          "empMobile": 123,
+          "empDesignation": "GM (Operations)",
+          "empName": "Kranthi Kumar Ayyadevara",
+          "empLocation": "hyderabad",
+          "empEmail": "k@alpha-numero.com",
+          "empDepartment": "ADMIN",
+          "empReportingmanager": "Sukanta Mithra"
+        },
+        {
+          "empId": "AN09",
+          "empMobile": 123,
+          "empDesignation": "Admin Assistant",
+          "empName": "Ramesh Patel",
+          "empLocation": "hyderabad",
+          "empEmail": "r@alpha-numero.com",
+          "empDepartment": "ADMIN",
+          "empReportingmanager": "Kantilal R Patel"
+        },
+        {
+          "empId": "AN105",
+          "empMobile": 123,
+          "empDesignation": "Admin Assistant",
+          "empName": "Nitesh Patel",
+          "empLocation": "hyderabad",
+          "empEmail": "n@alpha-numero.com",
+          "empDepartment": "ADMIN",
+          "empReportingmanager": "Kantilal R Patel"
+        }
+      ]
+    },
+    {
+      "headerTitle": "IT",
+      "data": [
+        {
+          "empId": "AN107",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Komali.N",
+          "empLocation": "hyderabad",
+          "empEmail": "k@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Puuna Reddy"
+        },
+        {
+          "empId": "AN108",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Jhansi Rani",
+          "empLocation": "hyderabad",
+          "empEmail": "j@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN109",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "SadaShivaKumar",
+          "empLocation": "hyderabad",
+          "empEmail": "umarsam.u@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN110",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "ChakraPani",
+          "empLocation": "hyderabad",
+          "empEmail": "anichm.a@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN111",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Jaysree Addanki",
+          "empLocation": "hyderabad",
+          "empEmail": "j@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN117",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "Sushma",
+          "empLocation": "hyderabad",
+          "empEmail": "ushmasum.u@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN118",
+          "empMobile": 123,
+          "empDesignation": "Trainee Verification Engineer",
+          "empName": "T.Poornima",
+          "empLocation": "hyderabad",
+          "empEmail": "t@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Punna Reddy"
+        },
+        {
+          "empId": "AN127",
+          "empMobile": 2147483647,
+          "empDesignation": "Ios developer",
+          "empName": "Raghu",
+          "empLocation": "hyderabad",
+          "empEmail": "raghuram.a@alpha-numero.com",
+          "empDepartment": "IT",
+          "empReportingmanager": "Shyam Kumar Sah"
+        }
+      ]
+    }
+  ]
+}
